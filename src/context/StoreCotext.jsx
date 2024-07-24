@@ -15,7 +15,7 @@ const StoreContextProvider = (props) => {
             price: 10.99,
             description: 'The crunch of south India .',
             image: '/dosa.png',
-            category: 'dosa'
+            category: 'Dosa'
         },
         {
             id: 2,
